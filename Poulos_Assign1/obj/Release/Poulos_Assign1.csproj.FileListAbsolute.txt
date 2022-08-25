@@ -1,0 +1,6 @@
+/Users/sor3765/Desktop/CSCI 473/Poulos_Assign1/Poulos_Assign1/bin/Release/Poulos_Assign1.exe.config
+/Users/sor3765/Desktop/CSCI 473/Poulos_Assign1/Poulos_Assign1/bin/Release/Poulos_Assign1.exe
+/Users/sor3765/Desktop/CSCI 473/Poulos_Assign1/Poulos_Assign1/bin/Release/Poulos_Assign1.pdb
+/Users/sor3765/Desktop/CSCI 473/Poulos_Assign1/Poulos_Assign1/obj/Release/Poulos_Assign1.csproj.CoreCompileInputs.cache
+/Users/sor3765/Desktop/CSCI 473/Poulos_Assign1/Poulos_Assign1/obj/Release/Poulos_Assign1.exe
+/Users/sor3765/Desktop/CSCI 473/Poulos_Assign1/Poulos_Assign1/obj/Release/Poulos_Assign1.pdb
